@@ -2,6 +2,7 @@
 
 
 **Project Overview**
+
 This extensive analysis of student math performance is designed to monitor, assess, and interpret academic progress. It highlights critical metrics and trends through a visually engaging and interactive platform, providing school teams with the insights needed to make informed, data-driven decisions that enhance student development and overall performance.
 
 **Key Performance Indicators (KPIs)**
@@ -10,6 +11,7 @@ The analysis focuses on the following KPIs:
 •	Total number of male and female students
 
 **DAX Analysis**
+
 Below are some key DAX measures used in the dashboard:
 •	Total students
 Total student = COUNTROWS('student-mat')
