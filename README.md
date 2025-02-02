@@ -37,7 +37,7 @@ Added an additional column with a conditional statement to categorize students' 
 
 •	**Student Grades**
 
-I added an additional column with a conditional statement to display the psychological evaluation of students' grades, using categories such as poor, fair, good, very good, and excellent.
+Added an additional column with a conditional statement to display the psychological evaluation of students' grades, using categories such as poor, fair, good, very good, and excellent.
 0-4	Poor
 5-8	Fair
 9-12	Good
@@ -45,6 +45,7 @@ I added an additional column with a conditional statement to display the psychol
 17-20	 Excellent
 
 **Visualizations**
+
 •	Student health status: A clustered bar chart visualization showing the total number of students by their health status.
 
 •	Student romantic relationship: A pie chart visualizing the total number of student by their romantic relationship.
